@@ -16,3 +16,4 @@ vault_password.txt
 .cache
 __pycache__
 *.log
+target
